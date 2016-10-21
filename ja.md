@@ -36,23 +36,27 @@ GitHubコミュニティ第一の目的は、ソフトウェアプロジェク�
 
 We rely on the community to let us know when an issue needs to be addressed. We do not actively monitor the site for offensive content. If you run into something or someone on the site that you find objectionable, here are some tools GitHub provides to help you take action immediately:
 
+何かあった際に、対処が必要だということを伝えることはコミュニティに任されています。攻撃的なコンテンツがないか、私たちから積極的にサイトをモニターすることはありません。もし、おかしな何か(あるいは誰か)に遭遇してしまったら、これらのGitHubが提供するツールが、その対処に役立つでしょう。
+
 - **Communicate expectations** - If you participate in a community that has not set their own, community-specific guidelines, encourage them to do so either in the README or [CONTRIBUTING file](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), or in [a dedicated code of conduct](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/), by submitting a pull request.
 
-- **何を期待しているか伝える** -
+- **何を期待しているか明らかに** - もし独自のコミュニティ専用のガイドラインが設定されていないコミュニティに参加しているなら、プルリクエストを送って、README か [CONTRIBUTING ファイル](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)の中で、あるいは[コード・オブ・コンダクト](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/)の中で、ガイドラインを示すよう働きかけましょう。
 
 - **Moderate Comments** - If you have [write-access privileges](https://help.github.com/articles/repository-permission-levels-for-an-organization/) for a repository, you can [edit](https://help.github.com/articles/editing-a-comment/) or [delete](https://help.github.com/articles/deleting-a-comment/) anyone's comments on commits, pull requests, and issues.
 
-- **コメントをモデレートする** -
+- **コメントをモデレートする** - もしリポジトリの[書き込み権限](https://help.github.com/articles/repository-permission-levels-for-an-organization/)があるなら、コミットやプルリクエスト、イシューに対するコメントを、誰が書いたものでも[編集](https://help.github.com/articles/editing-a-comment/)あるいは[削除](https://help.github.com/articles/deleting-a-comment/)することができます。
 
 - **Lock Conversations ** - If a discussion in an issue or pull request gets out of control, you can [lock the conversation](https://help.github.com/articles/locking-conversations/).
 
-- **会話(イシュー)をロックする ** -
+- **イシューをロックする ** - もしイシューやプルリクエストの中のディスカッションがコントロールできなくなったら、それをロックすることができます。
 
 - **Block Users**  - If you encounter a user who continues to demonstrate poor behavior, you can [block the user from your personal account](https://help.github.com/articles/blocking-a-user-from-your-personal-account/) or [block the user from your organization](https://help.github.com/articles/blocking-a-user-from-your-organization/).
 
-- **ユーザをブロックする**  -
+- **ユーザをブロックする**  - もし、困った行動を続けるユーザに遭遇してしまったら、[そのユーザをあなたの個人アカウントからブロックする](https://help.github.com/articles/blocking-a-user-from-your-personal-account/)か[あなたの組織からブロックする](https://help.github.com/articles/blocking-a-user-from-your-organization/)ことができます。
 
 Of course, you can always contact us to **[Report Abuse](https://github.com/contact/report-abuse)** if you need more help dealing with a situation.
+
+事態を収拾するためにそれ以上の助けが必要な場合は、もちろん、いつでも **[不正利用の報告](https://github.com/contact/report-abuse)** をして私たちに連絡をとることができます。
 
 ## 何が許されないか?
 
