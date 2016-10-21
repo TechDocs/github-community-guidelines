@@ -6,9 +6,15 @@
 
 Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
 
+無数の開発者が、無数のプロダクトをGitHub上でホストしていて — オープンソースのものも、クローズなものも含めて —、あらゆるコミュニティで日々行われる協力作業の一翼を担っていることは、私たちにとって光栄なことです。同時に、私たちはみな、これを誇るべきコミュニティにするために、エキサイティングな機会と責任を持っています。
+
 GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub a welcoming environment for all the different voices and perspectives in our community, while maintaining a space where people are free to express themselves.
 
+世界中のGitHubユーザは、極めて(wildly)異なる視点と、アイデア、経験を持ちこみ、先週初めての"Hello World"プロジェクトを作ったばかりの人から、世界的に有名なソフトウェア開発者まで多岐に渡ります。コミュニティの中で様々な意見や視点を持つ人たちが、自由に自己表現できる場を整備していく中で、私たちはその全ての人たちにとってGitHubを快適な環境にするべくコミットしています。
+
 By outlining what we expect to see within our community, we hope to help you understand how best to collaborate on GitHub, and what type of actions or content may violate our [Terms of Service](https://help.github.com/articles/github-community-guidelines/#legal-notices). We do not actively seek out content to moderate. We rely on our community members to communicate expectations, [moderate](https://help.github.com/articles/github-community-guidelines/#what-if-something-or-someone-offends-you) their projects, and [report](https://github.com/contact/report-abuse) abusive behavior or content. We will investigate any abuse reports and may moderate public content on our site that we determine to be in violation of our Terms of Service.
+
+コミュニティの中で起きうることのアウトラインを示すことで、GitHub上でどのように協力することがベストなのか、どんな行動やコンテンツが[利用規約](https://help.github.com/articles/github-community-guidelines/#legal-notices)に違反するのか、その理解の助けになることを期待しています。私たちは、モデレートするために積極的にコンテンツを探し回ったりはしません。やるべきことを明らかにし、それぞれのプロジェクトを[モデレート](https://help.github.com/articles/github-community-guidelines/#what-if-something-or-someone-offends-you)し、違反行為とコンテンツを [報告](https://github.com/contact/report-abuse)することを、私たちはコミュニティのメンバーに委ねています。私たちは、どんな違反報告についても調査し、利用規約に反するとみなされたサイト上の公開コンテンツをモデレートするでしょう。
 
 ## 力強いコミュニテイをつくる
 
@@ -22,7 +28,7 @@ GitHubコミュニティ第一の目的は、ソフトウェアプロジェク�
 
 - **Assume no malice** - Humans make mistakes, and disagreements or differences of opinion are a fact of life. Try to approach conflict from the perspective that people generally mean well. This will promote a respectful and friendly atmosphere where people feel comfortable asking questions, participating in discussions, and making contributions.
 
-- **悪意がないことを前提とします** - 人間が間違いをおかしたり、意見の違いや不一致があることは、日常茶飯事です。衝突に対しては、相手のいうことを一般的に良い意味でとらえてあげてください。これは、敬意ある友好的な空気を促進します — 質問を心地よくしやすく、ディスカッションに参加しやすく、またコントリビュートしやすくなるでしょう。
+- **悪意がないことを前提に** - 人間が間違いをおかしたり、意見の違いや不一致があることは、日常茶飯事です。衝突に対しては、相手のいうことを一般的に良い意味でとらえてあげてください。これは、敬意ある友好的な空気を促進します — 質問を心地よくしやすく、ディスカッションに参加しやすく、またコントリビュートしやすくなるでしょう。
 
 - **Stay on topic** - People use GitHub to get work done and to be more productive. Off topic comments are a distraction (sometimes welcome, but usually not) from getting work done and being productive. Staying on topic helps produce positive and productive discussions.
 
@@ -40,7 +46,7 @@ We rely on the community to let us know when an issue needs to be addressed. We 
 
 - **Communicate expectations** - If you participate in a community that has not set their own, community-specific guidelines, encourage them to do so either in the README or [CONTRIBUTING file](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), or in [a dedicated code of conduct](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/), by submitting a pull request.
 
-- **何を期待しているか明らかに** - もし独自のコミュニティ専用のガイドラインが設定されていないコミュニティに参加しているなら、プルリクエストを送って、README か [CONTRIBUTING ファイル](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)の中で、あるいは[コード・オブ・コンダクト](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/)の中で、ガイドラインを示すよう働きかけましょう。
+- **やってほしいことを明らかに** - もし独自のコミュニティ専用のガイドラインが設定されていないコミュニティに参加しているなら、プルリクエストを送って、README か [CONTRIBUTING ファイル](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)の中で、あるいは[コード・オブ・コンダクト](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/)の中で、ガイドラインを示すよう働きかけましょう。
 
 - **Moderate Comments** - If you have [write-access privileges](https://help.github.com/articles/repository-permission-levels-for-an-organization/) for a repository, you can [edit](https://help.github.com/articles/editing-a-comment/) or [delete](https://help.github.com/articles/deleting-a-comment/) anyone's comments on commits, pull requests, and issues.
 
