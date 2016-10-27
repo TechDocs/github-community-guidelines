@@ -6,7 +6,7 @@
 
 Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
 
-無数の開発者が、無数のプロダクトをGitHub上でホストしていて — オープンソースのものも、クローズなものも含めて —、あらゆるコミュニティで日々行われる協力作業の一翼を担っていることは、私たちにとって光栄なことです。同時に、私たちはみな、これを誇るべきコミュニティにするために、エキサイティングな機会と責任を持っています。
+無数の開発者が、無数のプロダクトをGitHub上でホストしていて — オープンソースのものも、クローズなものも含めて —、あらゆるコミュニティで日々行われる協力作業の一翼を担っていることは、私たちにとって光栄なことです。ともに、私たちはみな、これを誇るべきコミュニティにするために、エキサイティングな機会と責任を持っています。
 
 GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub a welcoming environment for all the different voices and perspectives in our community, while maintaining a space where people are free to express themselves.
 
